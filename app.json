@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "PhysioStimX",
+    "slug": "physiostimx",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#08141d"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.megabot07.physiostimx"
+    },
+    "android": {
+      "package": "com.megabot07.physiostimx"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
